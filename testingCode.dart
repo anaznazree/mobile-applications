@@ -25,5 +25,14 @@ void main(){
       print(fruit);
     }
 
+    String b = '10';
+    int a = int.parse(b);
+    print(a);
+
+    double c = a.toDouble();
+    print(c);
+
+    
+
     
 }
